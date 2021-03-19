@@ -5,7 +5,7 @@ export function Header() {
     <header>
       <nav>
         <Link href="/">
-          <a>Home</a>
+          <a>Test</a>
         </Link>
       </nav>
     </header>
